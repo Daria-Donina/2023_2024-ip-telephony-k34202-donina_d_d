@@ -66,7 +66,6 @@ option 150 ip 192.168.1.1
 
 ```
 telephony-service 
-max-dn
 max-dn 10
 max-ephones 10
 ip source-address 192.168.0.1 port 3100
